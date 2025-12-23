@@ -14,7 +14,7 @@
 
 ## demo : 通常攻撃と必殺技
 
-![demoGIF](images/通常と必殺技2.gif)
+![demoGIF](images/通常と必殺技2_loop.gif)
 
 ## できること・ゲームシステム
 1. **キャラクター移動・カメラ操作**
